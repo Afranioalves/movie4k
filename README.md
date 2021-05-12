@@ -1,4 +1,10 @@
 # movie4k
 Front-End criado usando apenas HTML + CSS + JAvaScript, sem uso de Framework
 
-<img src="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2019/09/01093013/Endgame-Lead-1.jpg" alt="My cool logo"/>
+<br><br>
+# DESKTOP AND MOBILE VERSION
+<p float="left">
+<img src="https://github.com/Afranioalves/movie4k/blob/main/img/desktop-version.png?raw=true" alt="DeskTop-Version" width="600"/>
+<img src="https://github.com/Afranioalves/movie4k/blob/main/img/mobile-version.png?raw=true" alt="Mobile-Version" width="300"/>
+ </p>
+ 
