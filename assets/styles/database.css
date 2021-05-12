@@ -1,0 +1,165 @@
+/*========================================= */
+/*===== 777- Afrânio Alves [ DARKNOIDE ]=== */
+.movie001{
+     animation: movie001 1s forwards;
+}
+@keyframes movie001 {
+    0%{
+        background:#000;
+    }
+    100%{
+         background:linear-gradient(
+        to top left,
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0)
+    ),url('../images/img2.jfif');
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    }
+}
+
+
+
+
+.movie002{
+        animation: movie002 1s forwards;
+        
+}
+@keyframes movie002 {
+    0%{
+        background:#000;
+    }
+    100%{
+          background:linear-gradient(
+        to top left,
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0)
+    ),url('../images/img16.png');
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    }
+}
+
+
+.movie003{
+       animation: movie003 1s forwards;
+}
+@keyframes movie003 {
+    0%{
+        background:#000;
+    }
+    100%{
+          background:linear-gradient(
+        to top left,
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0)
+    ),url('../images/img22.jpg');
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    }
+}
+
+.movie004{
+       animation: movie004 1s forwards;
+}
+@keyframes movie004 {
+    0%{
+        background:#000;
+    }
+    100%{
+          background:linear-gradient(
+        to top left,
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0)
+    ),url('../images/img12.jpg');
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    }
+}
+
+.movie005{
+       animation: movie005 1s forwards;
+}
+@keyframes movie005 {
+    0%{
+        background:#000;
+    }
+    100%{
+          background:linear-gradient(
+        to top left,
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0)
+    ),url('../images/img8.jfif');
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    }
+}
+
+.movie006{
+       animation: movie006 1s forwards;
+}
+@keyframes movie006 {
+    0%{
+        background:#000;
+    }
+    100%{
+          background:linear-gradient(
+        to top left,
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0)
+    ),url('../images/img20.png');
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    }
+}
+
+.movie007{
+       animation: movie007 1s forwards;
+}
+@keyframes movie007 {
+    0%{
+        background:#000;
+    }
+    100%{
+          background:linear-gradient(
+        to top left,
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0)
+    ),url('../images/img1.jfif');
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    }
+}
+.movie008{
+       animation: movie008 1s forwards;
+}
+@keyframes movie008 {
+    0%{
+        background:#000;
+    }
+    100%{
+          background:linear-gradient(
+        to top left,
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0)
+    ),url('../images/img15.jpg');
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    }
+}
