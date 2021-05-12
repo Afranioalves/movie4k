@@ -55,7 +55,7 @@ const AllCoverInformation = [
      ,
      {
        
-        title:"The Welverine",
+        title:"The Wolverine",
         stars:'<i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> ',
         year:"2019"
     }
